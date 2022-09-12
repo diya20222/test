@@ -1,0 +1,6 @@
+Username:- diyapatel1907
+Password:- diya@g@patel
+
+
+//bootstrap modal
+return "<button type='button' class='thumbnail_image' style='border:none;' data-toggle='modal' data-target='#myModal' name='open_modal' id='singin1'><img src = /storage/thumbs/$data->thumbnail class='thumbnails'></button> "; 

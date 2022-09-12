@@ -1,0 +1,32 @@
+{
+    "name": "pawlox/video-thumbnail",
+    "description": "Video thumbnails",
+    "keywords": [
+        "Video Thumbnails", "Laravel video thumbnail", "Laravel 5"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sukhil S S",
+            "email": "emailtosukhil@gmail.com"
+        },
+        {
+            "name": "Paweł Marciniak",
+            "email": "pawmarci@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "~0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pawlox\\VideoThumbnail\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
+
+
+
+
